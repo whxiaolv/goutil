@@ -1,4 +1,4 @@
-module goutil
+module github.com/whxiaolv/goutil
 
 go 1.18
 
